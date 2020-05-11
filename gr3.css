@@ -167,7 +167,7 @@ h1 {
 
 .masthead a#hamburger {
     display: inline-block;
-    background: transparent url('../images/sprites-main.png') no-repeat -460px -325px;
+    background: transparent url('https://uploads-ssl.webflow.com/5eb9de142927df3791cd1d7a/5eb9df9f886d6e001e885fb6_sprites-main.png') no-repeat -460px -325px;
     height: 30px !important;
     width: 40px !important;
     top: 13px;
@@ -203,7 +203,7 @@ ul.socials li>a {
 ul.socials li>a.sprite {
     height: 28px;
     width: 28px;
-    background: transparent url('../images/sprites-main.png') no-repeat -91px -289px;
+    background: transparent url('https://uploads-ssl.webflow.com/5eb9de142927df3791cd1d7a/5eb9df9f886d6e001e885fb6_sprites-main.png') no-repeat -91px -289px;
     position: relative;
     bottom: 5px
 }
@@ -244,7 +244,7 @@ span.omni-icon-close {
     float: right;
     height: 25px;
     width: 25px;
-    background: transparent url('../images/sprites-main.png') no-repeat -67px -95px;
+    background: transparent url('https://uploads-ssl.webflow.com/5eb9de142927df3791cd1d7a/5eb9df9f886d6e001e885fb6_sprites-main.png') no-repeat -67px -95px;
     cursor: pointer
 }
 
@@ -387,7 +387,7 @@ span.omni-icon-close {
     left: 0;
     margin: 0 !important;
     position: static;
-    background: transparent url('../images/sprites-main.png') no-repeat -91px -289px
+    background: transparent url('https://uploads-ssl.webflow.com/5eb9de142927df3791cd1d7a/5eb9df9f886d6e001e885fb6_sprites-main.png') no-repeat -91px -289px
 }
 
 .masthead .headercontrib {
@@ -446,7 +446,7 @@ span.omni-icon-close {
     left: 0;
     margin: 0 !important;
     position: static;
-    background: transparent url('../images/sprites-main.png') no-repeat -91px -289px
+    background: transparent url('https://uploads-ssl.webflow.com/5eb9de142927df3791cd1d7a/5eb9df9f886d6e001e885fb6_sprites-main.png') no-repeat -91px -289px
 }
 
 @media only screen and (max-width: 825px) {
